@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey there! 👋🏻
+---
+<p>
+  <em>
+    I am Ayush Dubey, a 2nd Year undergraduate from <a href="https://www.stcet.org/"> <b>St. Thomas' College of  Engineering</b>, Kolkata</a>. <br>
+    A budding <b>Developer</b>who is <b>obsessed</b> with the idea of <b>improving</b> himself <br>and wants a <b>platform</b> to 
+    <b>grow</b> and <b>excel.</b>
+  </em>
+</p>
 
-<!--
-**Ayushd70/Ayushd70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I am also a prolific open-source enthusiast
+- 👯 Looking to collaborate on new project ideas
+- 💬 Ask me about: Tech, memes, series, movies
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Connect with me at [LinkedIN](https://www.linkedin.com/in/ayush-dubey-020ab0167/)**
