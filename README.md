@@ -12,3 +12,4 @@
 - 💬 Ask me about: Tech, sports, memes, series, movies
 
 **My [Website](https://ayushd70.me/)**
+**Connect with me at [GMail](mailto:ayushdubey70@gmail.com)**
