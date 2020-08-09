@@ -25,14 +25,12 @@
 
 ### Glad to see you here! 🤩
 <p>
-  <i>I'm <b>Ayush Dubey</b>, a 2nd Year undergraduate pursuing B.Tech 🎓 from <a href="https://www.stcet.org" target="_blank"> <b>St. Thomas' College of  Engineering</b>, Kolkata</a>. 
-  I love to explore new technologies and leverage them to solve real-life problems ✨.
-  A budding <b>Developer</b> who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to <b>grow</b> and <b>excel.</b> 💡.</i>
+  <i>I'm <b>Ayush Dubey</b>, a 2nd Year undergraduate pursuing B.Tech 🎓 from <a href="https://www.stcet.org" target="_blank"> <b>St. Thomas' College of  Engineering</b>, Kolkata</a>. A budding <b>Developer</b> who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to <b>grow</b> and <b>excel.</b> 💡.<?i>
+  I love to explore new technologies and leverage them to solve real-life problems ✨. I'm a passionate learner who's always willing to learn and work across technologies and domains.
 </p>
 
 - 🌱 Currently learning [**Golang**](https://golang.org/) ✨
 - 👯 Looking to collaborate on new project ideas 👨‍💻
-- 😄 Pronouns: He/Him 🙍🏻‍♂️
 
 
 **Languages and Tools:**  
