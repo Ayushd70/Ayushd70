@@ -30,7 +30,7 @@
 </p>
 
 - 🌱 Currently learning [**Flutter/Dart**](https://flutter.dev/) ✨
-- 👯 Looking to collaborate on new project ideas 👨‍💻
+- 👯 Looking to collaborate on new project ideas mainly : **GoLang** 👨‍💻
 
 
 **Languages and Tools:**  
