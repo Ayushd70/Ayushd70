@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently working on: **Nothing, just trying to improve myself.**
 - 🌱 Currently learning [**Flutter/Dart**](https://flutter.dev/) ✨
-- 👯 Looking to collaborate on new project ideas mainly : **GoLang** 👨‍💻
+- 👯 Looking to collaborate on new project ideas mainly : [**GoLang**](https://golang.org/) 👨‍💻
 
 
 **Languages and Tools:**  
