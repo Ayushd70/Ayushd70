@@ -29,6 +29,7 @@
   I love to explore new technologies and leverage them to solve real-life problems ✨. I'm a passionate learner who's always willing to learn and work across technologies and domains.
 </p>
 
+- 🔭 I’m currently working on: **Nothing, just trying to improve myself.**
 - 🌱 Currently learning [**Flutter/Dart**](https://flutter.dev/) ✨
 - 👯 Looking to collaborate on new project ideas mainly : **GoLang** 👨‍💻
 
