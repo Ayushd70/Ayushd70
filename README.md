@@ -9,7 +9,7 @@
 <a href="https://github.com/Ayushd70" target="_blank">
   <img align="left" alt="Ayush's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="mailto:ayushdubey70@gmail.com" target="_blank">
+<a href="mailto:me@ayushd70.dev" target="_blank">
   <img align="left" alt="Ayush's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://t.me/ayushd70" target="_blank">
