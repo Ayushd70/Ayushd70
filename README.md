@@ -1,6 +1,9 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=Ayushd70"></h2>
 
 <br>
+<a href="mailto:ayushdubey70@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <a href="https://github.com/Ayushd70" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style=“margin-bottom: 5px;” />
 </a>
@@ -20,7 +23,6 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style=“margin-bottom: 5px;” />
 </a>
 <br/>
-<br>
 
 ## Glad to see you here!
 
