@@ -27,8 +27,7 @@
 ## Glad to see you here!
 
 <p>
-  <i>I'm <b>Ayush Dubey</b>, a 2nd Year undergraduate pursuing B.Tech 🎓 from <a href="https://www.stcet.org" target="_blank"> <b>St. Thomas' College of  Engineering</b>, Kolkata</a>. A budding <b>Developer</b> who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to <b>grow</b> and <b>excel.</b> 💡.</i>
-  I love to explore new technologies and leverage them to solve real-life problems ✨. I'm a passionate learner who's always willing to learn and work across technologies and domains.
+  I'm Ayush Dubey, a 2nd Year undergraduate pursuing B.Tech from <a href="https://www.stcet.org" target="_blank"> St. Thomas' College of  Engineering</a>, Kolkata. A budding Developer who is obsessed with the idea of improving himself and wants a platform to grow and excel. I love to explore new technologies and leverage them to solve real-life problems. I'm a passionate learner who's always willing to learn and work across technologies and domains.
 </p>
 
 - 🔭 I’m currently working on **Nothing, just trying to improve myself.**
@@ -84,7 +83,8 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=ayushd70&cover_image=true&theme=novatorem" align="center" style="width: 100%" />
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=ayushd70&redirect=true" target="_blank"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=ayushd70&cover_image=true&theme=novatorem" align="center" style="width: 100%" /></a>
+
 </div>
 
 </td></tr></table>
