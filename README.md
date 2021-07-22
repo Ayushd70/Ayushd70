@@ -27,23 +27,20 @@
 ## Glad to see you here!
 
 <p>
-  <i>I'm <b>Ayush Dubey</b>, a 2nd Year undergraduate pursuing B.Tech 🎓 from <a href="https://www.stcet.org" target="_blank"> <b>St. Thomas' College of  Engineering</b>, Kolkata</a>. A budding <b>Developer</b> who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to <b>grow</b> and <b>excel.</b> 💡.<?i>
+  <i>I'm <b>Ayush Dubey</b>, a 2nd Year undergraduate pursuing B.Tech 🎓 from <a href="https://www.stcet.org" target="_blank"> <b>St. Thomas' College of  Engineering</b>, Kolkata</a>. A budding <b>Developer</b> who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to <b>grow</b> and <b>excel.</b> 💡.</i>
   I love to explore new technologies and leverage them to solve real-life problems ✨. I'm a passionate learner who's always willing to learn and work across technologies and domains.
 </p>
-
 <br/>
+- 🔭 I’m currently working on Nothing, just trying to improve myself\*\*
 
-- 🔭 I’m currently working on Nothing, just trying to improve myself
+- 🌱 I’m currently learning [**Flutter/Dart**](https://flutter.dev/)✨
 
-- 🌱 I’m currently learning [**Flutter/Dart**](https://flutter.dev/)
+- 👯 Looking to collaborate on new project ideas mainly : [**GoLang**](https://golang.org/) and [**Flutter**](https://flutter.dev/) 👨‍💻
 
-- 👯 Looking to collaborate on new project ideas mainly : [**GoLang**](https://golang.org/) and [**Flutter**](https://flutter.dev/)
+- ❓ Ask me about: **Check out below to ask things related to whatever I know**
 
-- ❓ Ask me about: Check out below to ask things related to whatever I know
-
-- 📫 How to reach me: Just use any of the platforms above
-
-<br/>
+- 📫 How to reach me: **Just use any of the platforms above**
+  <br>
 
 ## Languages and Tools
 
