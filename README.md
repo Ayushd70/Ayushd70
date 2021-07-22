@@ -26,7 +26,10 @@
 
 ## Glad to see you here!
 
-### I'm Ayush Dubey, a 2nd Year undergraduate pursuing B.Tech 🎓 from St. Thomas' College of Engineering, Kolkata. A budding Developer who is obsessed with the idea of improving himself and wants a platform to grow and excel. 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm a passionate learner who's always willing to learn and work across technologies and domains.
+<p>
+  <i>I'm <b>Ayush Dubey</b>, a 2nd Year undergraduate pursuing B.Tech 🎓 from <a href="https://www.stcet.org" target="_blank"> <b>St. Thomas' College of  Engineering</b>, Kolkata</a>. A budding <b>Developer</b> who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to <b>grow</b> and <b>excel.</b> 💡.<?i>
+  I love to explore new technologies and leverage them to solve real-life problems ✨. I'm a passionate learner who's always willing to learn and work across technologies and domains.
+</p>
 
 <br/>
 
