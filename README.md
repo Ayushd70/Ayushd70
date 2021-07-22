@@ -30,7 +30,6 @@
   <i>I'm <b>Ayush Dubey</b>, a 2nd Year undergraduate pursuing B.Tech 🎓 from <a href="https://www.stcet.org" target="_blank"> <b>St. Thomas' College of  Engineering</b>, Kolkata</a>. A budding <b>Developer</b> who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to <b>grow</b> and <b>excel.</b> 💡.</i>
   I love to explore new technologies and leverage them to solve real-life problems ✨. I'm a passionate learner who's always willing to learn and work across technologies and domains.
 </p>
-<br/>
 
 - 🔭 I’m currently working on **Nothing, just trying to improve myself.**
 
@@ -41,7 +40,6 @@
 - ❓ Ask me about: **Check out below to ask things related to whatever I know**
 
 - 📫 How to reach me: **Just use any of the platforms above**
-  <br>
 
 ## Languages and Tools
 
@@ -88,7 +86,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=ayushd70&cover_image=false&theme=default" align="center" style="width: 100%" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=ayushd70&cover_image=true&theme=novatorem" align="center" style="width: 100%" />
 </div>
 
 </td></tr></table>
