@@ -30,18 +30,6 @@
   I'm Ayush Dubey, a 2nd Year undergraduate pursuing B.Tech from <a href="https://www.stcet.org" target="_blank"> St. Thomas' College of  Engineering and Technology</a>, Kolkata. A budding Developer who is obsessed with the idea of improving himself and wants a platform to grow and excel. I love to explore new technologies and leverage them to solve real-life problems. I'm a passionate learner who's always willing to learn and work across technologies and domains.
 </samp></p>
 
-<p><samp>
-- 🔭 I’m currently working on **Nothing, just trying to improve myself.**
-
-- 🌱 I’m currently learning [**Flutter/Dart**](https://flutter.dev/)
-
-- 👯 Looking to collaborate on new project ideas mainly : [**GoLang**](https://golang.org/) and [**Flutter**](https://flutter.dev/)
-
-- ❓ Ask me about: **Check out below to ask things related to whatever I know**
-
-- 📫 How to reach me: **Just use any of the platforms above**
-  </samp></p>
-
 ## Languages and Tools
 
 <div align="center">  
