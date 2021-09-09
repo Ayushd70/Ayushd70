@@ -27,7 +27,11 @@
 ## Glad to see you here!
 
 <p><samp>
-  I'm Ayush Dubey, a 2nd Year undergraduate pursuing B.Tech from <a href="https://www.stcet.org" target="_blank"> St. Thomas' College of  Engineering and Technology</a>, Kolkata. A budding Developer who is obsessed with the idea of improving himself and wants a platform to grow and excel. I love to explore new technologies and leverage them to solve real-life problems. I'm a passionate learner who's always willing to learn and work across technologies and domains.
+  I'm Ayush Dubey, a 3rd Year undergraduate pursuing B.Tech from <a href="https://www.stcet.org" target="_blank"> St. Thomas' College of  Engineering and Technology</a>, Kolkata.
+  <br/><br/>
+  I'm currently working at <a href="https://rajasthanstudio.com/">Rajasthan Studio</a> as a SDE. I also maintain few Android Custom ROM at <a href="https://forum.xda-developers.com/m/ayushd70.5889244/">XDA Developers</a>.
+  <br/><br/>
+  You can contact me on any of the platforms above. I typically respond fastest to Telegram messages.
 </samp></p>
 
 ## Languages and Tools
