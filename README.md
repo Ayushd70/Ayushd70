@@ -31,7 +31,7 @@
   <br/><br/>
   I'm currently working at <a href="https://rajasthanstudio.com/">Rajasthan Studio</a> as a SDE. I also maintain few Android Custom ROM at <a href="https://forum.xda-developers.com/m/ayushd70.5889244/">XDA Developers</a>.
   <br/><br/>
-  You can contact me on any of the platforms above. I typically respond fastest to Telegram messages.
+  You can contact me on any of the platforms above. I typically respond fastest to <a href="https://t.me/Ayushd70"> Telegram </a> messages.
 </samp></p>
 
 ## Languages and Tools
