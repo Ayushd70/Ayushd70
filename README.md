@@ -27,9 +27,9 @@
 ## Glad to see you here!
 
 <p><samp>
-  I'm Ayush Dubey, a 3rd Year undergraduate pursuing B.Tech from <a href="https://www.stcet.org" target="_blank"> St. Thomas' College of  Engineering and Technology</a>, Kolkata.
+  I'm Ayush Dubey, a 3rd Year undergraduate pursuing B.Tech in Computer Science from <a href="https://www.stcet.org" target="_blank"> St. Thomas' College of  Engineering and Technology</a>, Kolkata.
   <br/><br/>
-  I'm currently working at <a href="https://rajasthanstudio.com/">Rajasthan Studio</a> as a SDE. I also maintain few Android Custom ROM at <a href="https://forum.xda-developers.com/m/ayushd70.5889244/">XDA Developers</a>.
+  I'm currently working at <a href="https://github.com/rooftopapp">Rooftop</a> as a SDE. I also maintain few Android Custom ROM at <a href="https://forum.xda-developers.com/m/ayushd70.5889244/">XDA Developers</a>.
   <br/><br/>
   You can contact me on any of the platforms above. I typically respond fastest to <a href="https://t.me/Ayushd70"> Telegram </a> messages.
 </samp></p>
