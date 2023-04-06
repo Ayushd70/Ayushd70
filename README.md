@@ -1,4 +1,4 @@
-## Hello World!👋
+### Hey there! 👋
 
 <img src="https://komarev.com/ghpvc/?username=Ayushd70">
 
@@ -26,7 +26,7 @@
 </a>
 <br/>
 
-## Glad to see you here!
+### Glad to see you here!
 
 <p><samp>
   I'm Ayush Dubey, a passionate Developer living in India. Currently pursuing B.Tech in Computer Science.
@@ -36,7 +36,7 @@
   You can contact me on any of the platforms above. I typically respond fastest to <a href="https://t.me/Ayushd70"> Telegram </a> messages.
 </samp></p>
 
-## Languages and Tools
+### Languages and Tools
 
 <div align="center">  
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />
