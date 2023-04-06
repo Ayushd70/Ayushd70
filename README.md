@@ -70,19 +70,4 @@
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50" />  
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" alt="Jenkins" height="50" />  
 </div>
-
-## Stats
-
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ayushd70&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=ayushd70&redirect=true" target="_blank"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=ayushd70&cover_image=true&theme=novatorem" align="center" style="width: 100%" /></a>
-
-</div>
-
-</td></tr></table>
-
 <br/>
