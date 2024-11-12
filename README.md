@@ -29,10 +29,10 @@
 ### Glad to see you here!
 
 <p><samp>
-  I'm Ayush Dubey, a passionate Developer living in India. Currently pursuing B.Tech in Computer Science.
+  I'm Ayush Dubey, a passionate Developer living in India.   I am a Software Engineer with a keen focus on mobile side of things,working at <a href="https://rentok.com/">RentOk</a>.
   <br/><br/>
-  I was previously working at <a href="https://rooftopapp.com/">Rooftop</a> as Founding Engineer. I maintain few Android Custom ROM at <a href="https://forum.xda-developers.com/m/ayushd70.5889244/">XDA Developers</a>.
-  <br/><br/>
+   I was previously working at <a href="https://rooftopapp.com/">Rooftop</a> as Founding Engineer. I maintain few Android Custom ROM at <a href="https://forum.xda-developers.com/m/ayushd70.5889244/">XDA Developers</a>.
+  <br/><br/> 
   You can contact me on any of the platforms above. I typically respond fastest to <a href="https://t.me/Ayushd70"> Telegram </a> messages.
 </samp></p>
 
