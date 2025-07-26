@@ -14,11 +14,13 @@
 
 ## About Me
 
-I'm a passionate Software Engineer based in India with extensive expertise in mobile application development. Currently, I'm contributing to [RentOk](https://rentok.com/) as a Software Engineer, focusing on mobile solutions and architecture.
+I'm a passionate Software Engineer based in India with extensive expertise in mobile application development. Currently, I serve as the **Lead Mobile Engineer at [Unstudio AI](https://unstudio.ai/)**, where I’m leading the mobile efforts for [Twin.shop](https://twin.shop/), an innovative AI-powered shopping platform.
 
-Previously, I served as a Founding Engineer at [Rooftop](https://rooftopapp.com/), where I helped build the foundation for scalable software solutions. I also maintain several Android Custom ROMs at [XDA Developers](https://forum.xda-developers.com/m/ayushd70.5889244/), demonstrating my deep knowledge of Android systems and architecture.
+Before this, I contributed to [RentOk](https://rentok.com/) as a Software Engineer, focusing on mobile solutions and architecture for rental property management. I also served as a Founding Engineer at [Rooftop](https://rooftopapp.com/), where I helped build the foundation for scalable and intuitive software solutions.
 
-I'm constantly exploring new technologies and methodologies to enhance my skillset and deliver efficient solutions to complex problems.
+In addition, I actively maintain several Android Custom ROMs at [XDA Developers](https://forum.xda-developers.com/m/ayushd70.5889244/), showcasing my deep understanding of Android internals and system architecture.
+
+I'm constantly exploring new technologies and methodologies to enhance my skillset and deliver efficient, high-impact solutions to complex problems.
 
 ## 🛠️ Technical Skills
 
