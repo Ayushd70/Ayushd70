@@ -2,8 +2,6 @@
 
 Software Engineer building scalable mobile apps and backend systems with Flutter, iOS/Android, and AI integrations.
 
-[Portfolio](https://ayushd70.dev/) | [GitHub](https://github.com/Ayushd70) | [LinkedIn](https://linkedin.com/in/ayushd70) | [Email](mailto:ayushdubey70@gmail.com)
-
 ## About
 
 Based in India with 4+ years of experience across mobile, backend APIs, and cloud systems.  
@@ -28,7 +26,4 @@ Previously worked at RentOk and as a Founding Engineer at Rooftop.
 
 Open to impactful engineering roles and collaborations.
 
-- Email: [ayushdubey70@gmail.com](mailto:ayushdubey70@gmail.com)
-- LinkedIn: [linkedin.com/in/ayushd70](https://linkedin.com/in/ayushd70)
-- Telegram: [t.me/Ayushd70](https://t.me/Ayushd70)
-- X: [x.com/Ayushd70](https://x.com/Ayushd70)
+[Portfolio](https://ayushd70.dev/) | [GitHub](https://github.com/Ayushd70) | [LinkedIn](https://linkedin.com/in/ayushd70) | [Email](mailto:ayushdubey70@gmail.com) | [Telegram](https://t.me/Ayushd70) | [X](https://x.com/Ayushd70)
